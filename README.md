@@ -1,3 +1,8 @@
+WEATHER-APP
+----
+PLEASE VIEW IT ON PHONE RESOLUTION - THANK YOU!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
